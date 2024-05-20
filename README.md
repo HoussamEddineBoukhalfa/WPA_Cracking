@@ -40,19 +40,10 @@ The main part of the script performs the following steps:
 3. Attempts to connect to the specified network using the provided credentials.
 4. Displays the result of the connection attempt to the user.
 
-## Results
-The script successfully scans for available Wi-Fi networks and attempts to connect to a specified network using the provided SSID and password. The results of these operations are displayed to the user, indicating whether the connection attempt was successful or not.
 
 ## Ethical Considerations
 It is crucial to highlight that unauthorized access to Wi-Fi networks is illegal and unethical. This project and its script should only be used for educational purposes and on networks for which the user has explicit permission to access. Ethical hacking practices must be adhered to at all times to avoid legal consequences and respect the privacy and security of others.
 
-## Downloading the Code
-The code for this project is available on GitHub. You can download it using the following steps:
-1. Visit the GitHub repository at: [https://github.com/HoussamEddineBoukhalfa/WPA_Cracking](https://github.com/HoussamEddineBoukhalfa/WPA_Cracking)
-2. Click on the `Code` button.
-3. Select `Download ZIP` to download the repository as a ZIP file.
-4. Extract the ZIP file to your desired location on your computer.
-5. Navigate to the extracted folder and open the `Wifi-Hacking.py` script.
 
 ## Conclusion
 This project demonstrates a basic method for scanning and attempting to connect to Wi-Fi networks using Python and `nmcli`. While the script serves educational purposes in understanding network connections, it also emphasizes the importance of ethical considerations in network security.
@@ -65,8 +56,3 @@ Future improvements to this project could include:
 - Extending the script to include functionality for more advanced network management tasks.
 - Incorporating advanced WPA cracking techniques such as handshake capture and dictionary attacks.
 
-## References
-- WPA (Wi-Fi Protected Access) Overview: [Wikipedia](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access)
-- nmcli Tool Documentation: [NetworkManager/nmcli](https://developer.gnome.org/NetworkManager/stable/nmcli.html)
-- Python subprocess Module: [Python Documentation](https://docs.python.org/3/library/subprocess.html)
-- Aircrack-ng Suite: [Aircrack-ng](https://www.aircrack-ng.org/)
